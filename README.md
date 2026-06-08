@@ -1,7 +1,7 @@
 # Hospital de Teresina — Sistema CRUD em Python
 
 Trabalho Final da disciplina de python.
-Sistema CRUD de pacientes executado via terminal ).
+Sistema CRUD de pacientes executado via terminal .
 
 ## Estrutura dos arquivos
 
